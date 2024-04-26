@@ -1,3 +1,13 @@
+# TUGAS 3 REACT JS dari NIOMIC
+
+# Tujuan:
+* Memahami cara penggunaan Handling Events dan Parameters.
+* Memahami cara penggunaan preventDefault.
+* Memahami cara penggunaan Handling Events onChange pada Input Element.
+* Memahami cara penggunaan Event Target Value.
+* Memahami cara penggunaan Set Default Input Value.
+* Memahami cara penggunaan setState.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
